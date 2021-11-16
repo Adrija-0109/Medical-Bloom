@@ -1,4 +1,4 @@
-absl-py==0.7.1https://github.com/Adrija-0109/Medical-Bloom/blob/main/requirements.txt
+absl-py==0.7.1
 astor==0.7.1
 certifi==2019.3.9
 chardet==3.0.4
