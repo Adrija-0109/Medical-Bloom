@@ -6,10 +6,7 @@ Click==7.0
 Flask==1.0.2
 Flask-Cors==3.0.7
 gast==0.2.2
-googlemaps==3.0.2
-idna==2.8
-itsdangerous==1.1.0
-Jinja2==2.10.1
+gunicorn
 Keras==2.2.4
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
